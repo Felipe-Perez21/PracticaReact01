@@ -1,5 +1,6 @@
 import React,{Component} from "react";
 import '../App.css'
+import PropTypes from 'prop-types';
 
 class Body extends Component{
     render(){
@@ -17,3 +18,9 @@ class Body extends Component{
 }
 
 export default Body;
+
+Body.propTypes = {
+    practica: PropTypes.string,
+    eltemas: PropTypes.array
+  
+};

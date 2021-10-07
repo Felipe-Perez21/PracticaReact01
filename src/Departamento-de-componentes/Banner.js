@@ -1,5 +1,6 @@
 import React from 'react'
 import '../App.css'
+import PropTypes from 'prop-types';
 
 class Banner extends React.Component{
     render(){
@@ -12,3 +13,11 @@ class Banner extends React.Component{
 }
 
 export default Banner;
+
+Banner.propTypes = {
+    textoban: PropTypes.string,
+};
+
+Banner.defaultProps = {
+    textoban: "Esto viene por defecto :p"
+}
