@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PracticaReact01/static/css/main.430c39fd.chunk.css",
+    "main.js": "/PracticaReact01/static/js/main.ee592e01.chunk.js",
+    "main.js.map": "/PracticaReact01/static/js/main.ee592e01.chunk.js.map",
+    "runtime-main.js": "/PracticaReact01/static/js/runtime-main.26b11084.js",
+    "runtime-main.js.map": "/PracticaReact01/static/js/runtime-main.26b11084.js.map",
+    "static/js/2.06dc09d3.chunk.js": "/PracticaReact01/static/js/2.06dc09d3.chunk.js",
+    "static/js/2.06dc09d3.chunk.js.map": "/PracticaReact01/static/js/2.06dc09d3.chunk.js.map",
+    "static/js/3.b0434080.chunk.js": "/PracticaReact01/static/js/3.b0434080.chunk.js",
+    "static/js/3.b0434080.chunk.js.map": "/PracticaReact01/static/js/3.b0434080.chunk.js.map",
+    "index.html": "/PracticaReact01/index.html",
+    "static/css/main.430c39fd.chunk.css.map": "/PracticaReact01/static/css/main.430c39fd.chunk.css.map",
+    "static/js/2.06dc09d3.chunk.js.LICENSE.txt": "/PracticaReact01/static/js/2.06dc09d3.chunk.js.LICENSE.txt",
+    "static/media/Logos_Encabezado.01117d34.png": "/PracticaReact01/static/media/Logos_Encabezado.01117d34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b11084.js",
+    "static/js/2.06dc09d3.chunk.js",
+    "static/css/main.430c39fd.chunk.css",
+    "static/js/main.ee592e01.chunk.js"
+  ]
+}
