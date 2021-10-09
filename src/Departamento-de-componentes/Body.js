@@ -1,6 +1,8 @@
 import React,{Component} from "react";
 import '../App.css'
 import PropTypes from 'prop-types';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Button from 'react-bootstrap/Button';
 
 class Body extends Component{
     render(){
@@ -12,6 +14,9 @@ class Body extends Component{
                     <li key = {inde} >{e}</li>
                 )}
             </ol>
+
+            <Button variant="outline-danger" onClick={()=>(alert("(-_-)"))}>No dar click</Button>
+
             </div>
         );
     }
